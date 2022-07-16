@@ -1,0 +1,49 @@
+fieldset {
+    margin: 0;
+    border: 1;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#section1 > #content1 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 100px;
+}
+
+
+#container {
+    display: block;
+    background-color: #14213d; 
+    color: antiquewhite;
+    
+}
+
+
+.content2 {
+    display: inline-block;
+    margin: 5px;
+    padding-right: 10%;
+}
+
+/* #container > .content2 {
+    color: antiquewhite;
+} */
+
+ul {
+    list-style: none;
+    font-size: medium;
+}
+
+
+a {
+    text-decoration: none;
+    color: antiquewhite; 
+} 
+
+.tos {
+    color: #14213d;
+}
